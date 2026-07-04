@@ -25,7 +25,7 @@ like this:
 
 \Tvoid/: "vk=VK_Get_Shaders."{
 tvoid: "Shaders_Rander_build",
-custom = "Tvoid Shaders Rander build", by: <blue>,
+custom = "Tvoid Shaders Rander build", Vby: <blue>,
 
 Use code with caution.
 
