@@ -24,7 +24,9 @@ like this:
 # example code
 
 \Tvoid/: "vk=VK_Get_Shaders."{
+
 tvoid: "Shaders_Rander_build",
+
 custom = "Tvoid Shaders Rander build", Vby: <blue>,
 
 Use code with caution.
@@ -34,7 +36,7 @@ Use code with caution.
 . Separates the Text: Ending the description string with a quote and a comma ( ", ) tells
 the decryptor that the text property is complete.
 
-. Activates the Prefix: Isolating by: allows the plugin to read it clearly. It should
+. Activates the Prefix: Isolating vby: allows the plugin to read it clearly. It should
 instantly lose its red squiggle and flip to yellow (command) or blue (code piece).
 
 . Invokes the Default Texture: Removing the single quotes from <blue> allows the
