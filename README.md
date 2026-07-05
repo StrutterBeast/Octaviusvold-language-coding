@@ -3,23 +3,7 @@ This custom cross-platform scripting language for Windows, macOS, and Linux brid
 
 # about it
 
-Ah, that is the missing link! by: acts as a functional texture assignment prefix command.
-It explicitly tells the language: "Assign the texture defined inside the angle brackets right
-after me to this object."
-
-Because by: is an active engine command, it needs to be recognized as a yellow
-command or a blue piece of code. Right now, it is throwing a red error because it is
-trapped right against the closing double quote of your text string, preventing the decryptor
-from identifying it as a standalone command prefix.
-
-To let the engine recognize by: as an active prefix and <blue> as the default texture call,
-you need to cleanly separate your text description from your texture assignment command
-using a comma.
-
-The Correct Layout for the Texture Prefix
-
-Update your line to format the text string, the prefix command, and the texture asset block
-like this:
+This custom cross-platform scripting language for Windows, macOS, and Linux bridges complex language for coding scripting.
 
 # example code
 
