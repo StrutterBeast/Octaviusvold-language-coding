@@ -5,6 +5,8 @@ This custom cross-platform scripting language for Windows, macOS, and Linux brid
 
 This custom cross-platform scripting language for Windows, macOS, and Linux bridges complex language for coding scripting.
 
+made by: StrutterBeast
+
 # example code
 
 \Tvoid/: "vk=VK_Get_Shaders."{
