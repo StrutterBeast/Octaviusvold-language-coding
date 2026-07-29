@@ -8,6 +8,7 @@ Copyright (c) 2026 Strutter Beast
 Copyright Registered: The Protected Work is protected under applicable copyright laws (including but not limited to the U.S. Copyright Act, the EU Copyright Directive, and international treaties like the Bern Convention).
 No Public Domain: The Protected Work is NOT in the public domain. It is NOT free for general use.
 No Implied Rights: Access to this repository does not grant any license, right, or privilege to use, reproduce, modify, distribute, or commercialize the Protected Work.
+
 2. Absolute Prohibition on Reproduction and Distribution You are strictly prohibited from:
 
 Copying, downloading, scraping, or extracting any part of the Protected Work.
@@ -15,17 +16,20 @@ Reproducing, modifying, adapting, or creating derivative works of the Protected 
 Distributing, publishing, broadcasting, or sharing any part of the Protected Work with third parties.
 Using the Protected Work in any other project, product, or service without a separate, written license agreement explicitly signed by [Your Name/Company Name].
 Zero Tolerance: Any attempt to bypass technical protection measures (TPMs), DRM, or access controls is a direct violation of this agreement and applicable laws (e.g., DMCA §1201).
+
 3. "No Use Without Permission" Clause
 
 Explicit Permission Required: You may NOT use the Protected Work for ANY purpose—personal, commercial, educational, or research—without prior, written authorization from the Copyright Holder.
 No "Fair Use" Exception: The Copyright Holder asserts that no "fair use" or "de minimis" exception applies to the Protected Work in this context. Any unauthorized use, regardless of intent, constitutes copyright infringement.
 No Training or AI Use: The Protected Work cannot be used to train any artificial intelligence, machine learning model, or automated system, nor can it be ingested by any data processing pipeline without explicit consent.
+
 4. Legal Consequences & Zero Recovery Policy In the event of unauthorized use, copying, or distribution:
 
 Immediate Action: The Copyright Holder reserves the right to issue immediate Cease and Desist orders, DMCA takedown notices, and legal injunctions.
 Damages: You will be liable for all statutory damages, actual damages, lost profits, and legal fees associated with the infringement.
 No Recovery: If the Protected Work is found to be used without permission, no recovery, restoration, or remediation will be provided. The infringing material must be immediately and permanently deleted. The Copyright Holder is under no obligation to assist in recovering your own unauthorized copies.
 Criminal Liability: In severe cases, unauthorized reproduction or distribution may result in criminal charges under applicable copyright and computer crime laws.
+
 5. Monitoring and Enforcement The Copyright Holder actively monitors for unauthorized use of the Protected Work using digital fingerprinting, watermarking, and automated detection systems. Any detected violation will be prosecuted to the fullest extent of the law.
 
 6. Acceptance of Terms By accessing, viewing, or interacting with this repository, you acknowledge that you have read, understood, and agreed to these strictly restrictive terms. If you do not agree, you must immediately delete all copies and cease all access.
@@ -40,16 +44,19 @@ I cannot generate a legal license agreement or specific "Data Scraping Protectio
 However, I can provide a detailed, professional "Data Usage and Scraping Protection" clause that you could include in a software license agreement or Terms of Service (ToS). This draft reflects current legal trends regarding anti-scraping measures, data sovereignty, and the risks of non-compliance, written in a style suitable for a README or legal section.
 
 Appendix A: Data Usage, Scraping Restrictions, and AI Model Integrity
+
 1. Prohibition on Unauthorized Scraping and Data Exfiltration The User expressly acknowledges that the Data, APIs, and Model Weights provided under this Agreement are protected intellectual property. Any attempt to access, extract, copy, scrape, crawl, or otherwise harvest data, training sets, or model parameters without explicit written authorization is strictly prohibited. This includes, but is not limited to:
 
 Automated bot traffic that bypasses robots.txt directives.
 Reverse engineering of API endpoints to reconstruct training data.
 Mass downloading of content for the purpose of training competing AI models.
+
 2. The "Data Integrity" and "Model Obsolescence" Warning The Licensor explicitly warns that the integrity of the provided AI models is contingent upon the lawful sourcing of their training data.
 
 Risk of Data Contamination: If the User or any third party acting on the User's behalf utilizes this data in violation of applicable scraping laws (including but not limited to the Computer Fraud and Abuse Act (CFAA), the EU Digital Services Act, or the proposed "No AI Scraping Act"), the Licensor reserves the right to immediately revoke access and invalidate the model license.
 Consequence of Non-Compliance: In the event of a verified violation, the Licensor may issue a "Model Nullification" directive. This may involve the remote revocation of API keys, the invalidation of cryptographic signatures required for model inference, or the publication of takedown notices regarding the derived model weights.
 Irreversibility: The User acknowledges that once a model is found to be trained on unlawfully scraped data, it may be deemed legally indefensible. In such scenarios, the User may be legally compelled to delete, destroy, or "obliterate" the model weights to comply with court orders or regulatory mandates. The Licensor will not provide support, updates, or recovery mechanisms for models compromised by illegal data sourcing practices. Recovery of such a model is not guaranteed and may be impossible due to legal injunctions.
+
 3. Audit and Compliance Rights The Licensor retains the right to audit the User's data pipelines and model training logs to ensure compliance with this Agreement. Any evidence of unauthorized scraping or data misappropriation will result in immediate termination of the license and potential legal action for damages.
 
 4. Indemnification The User agrees to indemnify and hold harmless the Licensor from any claims, damages, or liabilities arising from the User's unauthorized use of data, including claims brought by third parties whose data may have been scraped in violation of this Agreement.
